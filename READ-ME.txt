@@ -1,1 +1,3 @@
 Picked from: https://themewagon.com/themes/free-responsive-html5-bootstrap-5-preschool-website-template-kider/
+
+deploy: firebase deploy --only hosting:bachpanplus-12784
